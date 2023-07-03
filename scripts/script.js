@@ -1,6 +1,6 @@
-var t1 = document.getElementById("htmlcont").style;
-var t2 = document.getElementById("csscont").style;
-var t3 = document.getElementById("jscont").style;
+var t1 = document.getElementById("card1").style;
+var t2 = document.getElementById("card2").style;
+var t3 = document.getElementById("card3").style;
 t1.display = "none";
 t2.display = "none";
 t3.display = "none";
